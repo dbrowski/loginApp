@@ -1,3 +1,5 @@
+Uses sample app found here: https://github.com/pingidentity/pingone-customers-sample-custom-signon.git
+
 # Introduction
 
 This is a small React sample that shows how to use of OAuth2 authentication inside your react applications.
