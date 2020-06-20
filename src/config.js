@@ -3,7 +3,7 @@ export default {
   authDetails: {
     environmentId: "fa669f8d-f31c-4b71-93b7-ca1906954c6f",
     responseType: "token id_token",
-    clientId: "2f9b6c22-1637-42c5-9ac8-7d3dd153f77b",
+    clientId: "8445b17e-1d8e-4ebb-88be-502653b5570d",
     clientSecret: "",
     grantType: "implicit",
     // redirectUri: "https://loginApp.surge.sh",
